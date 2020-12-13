@@ -15,7 +15,10 @@
   <img align="left" alt="NJ" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/njangra.png" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=imnjangra.imnjangra)
+
 <br />
+
 Hi, I'm [Navjot Jangra!](https://njangra.me/), a passionate self-taught Web Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -42,4 +45,4 @@ Hi, I'm [Navjot Jangra!](https://njangra.me/), a passionate self-taught Web Deve
 <code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/python.png"></code>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=imnjangra.imnjangra)
+
