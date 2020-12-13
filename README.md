@@ -19,7 +19,7 @@
 
 <br />
 
-I'm [Navjot Jangra!](https://njangra.me/), a passionate self-taught Web Developer 🚀 from India.
+I'm <h3>[Navjot Jangra!](https://njangra.me/)</h3>, a passionate self-taught Web Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/coding.gif?raw=true" width="470" height="300" />
   
