@@ -15,6 +15,8 @@
   <img align="left" alt="NJ" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/njangra.png" />
 </a>
 
+<br />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=imnjangra.imnjangra)
 
 <br />
