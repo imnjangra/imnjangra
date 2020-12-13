@@ -14,10 +14,8 @@
 <a href="https://njangra.me/">
   <img align="left" alt="NJ" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/njangra.png" />
 </a>
-![]
 
 <br />
-
 Hi, I'm [Navjot Jangra!](https://njangra.me/), a passionate self-taught Web Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
