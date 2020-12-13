@@ -33,16 +33,16 @@ I'm [Navjot Jangra!](https://njangra.me/), a passionate self-taught Web Develope
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/html-5.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/css3.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/c-programming.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/c++.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/python.png"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/html-5.png"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/css3.png"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/nodejs.png"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/php.png"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/bootstrap.png"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/c-programming.png"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/c++.png"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/java.png"></code>
+<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/python.png"></code>
 
 
 
