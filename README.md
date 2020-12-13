@@ -1,18 +1,18 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/injangra">
-  <img align="left" alt="NJ-Insta" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="NJ-Insta" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/instagram.png" />
 </a>
 <a href="https://twitter.com/imnjangra">
-  <img align="left" alt="NJ-Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="NJ-Twitter" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/imnjangra/">
-  <img align="left" alt="NJ-LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="NJ-LinkedIN" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/inkedin.png" />
 </a>
 <a href="https://www.facebook.com/imNavjotJangra/">
-  <img align="left" alt="NJ-Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="NJ-Facebook" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/facebook.png" />
 </a>
 <a href="https://njangra.me/">
-  <img align="left" alt="NJ" width="22px" src="https://raw.githubusercontent.com/imnjangra/imnjangra.github.io/main/images/njangra-logo-black.png" />
+  <img align="left" alt="NJ" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/njangra.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=imnjangra.imnjangra)
