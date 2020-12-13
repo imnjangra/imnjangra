@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , nice to meet you.
 <a href="https://www.instagram.com/injangra">
   <img align="left" alt="NJ-Insta" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/instagram.png" />
 </a>
@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm [Navjot Jangra!](https://njangra.me/), a passionate self-taught Web Developer 🚀 from India.
+I'm [Navjot Jangra!](https://njangra.me/), a passionate self-taught Web Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
