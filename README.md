@@ -15,9 +15,7 @@
   <img align="left" alt="NJ" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/njangra.png" />
 </a>
 
-<br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=imnjangra.imnjangra)
 
 <br />
 
@@ -45,3 +43,6 @@ Hi, I'm [Navjot Jangra!](https://njangra.me/), a passionate self-taught Web Deve
 <code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/c++.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/python.png"></code>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=imnjangra.imnjangra)
