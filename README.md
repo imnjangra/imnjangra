@@ -21,7 +21,7 @@
 
 I'm **[Navjot Jangra!](https://njangra.me/)**, a passionate self-taught Web Developer 🚀 from India.
 
-  <img align="right" alt="PNG" src="BACKGROUND.png" width="400" height="430" />
+  <img align="right" alt="PNG" src="BACKGROUND.png" width="350" height="380" />
   
 **Talking about Personal Stuffs:**
 
