@@ -21,7 +21,7 @@
 
 I'm **[Navjot Jangra!](https://njangra.me/)**, a passionate self-taught Web Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/coding.gif?raw=true" width="470" height="300" />
+  <img align="right" alt="PNG" src="BACKGROUND.png" width="470" height="300" />
   
 **Talking about Personal Stuffs:**
 
