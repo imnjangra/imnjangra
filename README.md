@@ -26,7 +26,7 @@ I'm **[Navjot Jangra!](https://njangra.me/)**, a passionate self-taught Web Deve
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Python; 
+- 🌱 I’m currently learning AI-ML; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [hi@njangra.me](mailto:hi@njangra.me);
 - 📝[Resume](https://njangra.me/NavjotJangra_Resume.pdf)
