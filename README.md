@@ -12,7 +12,7 @@
   <img align="left" alt="NJ-Facebook" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/facebook.png" />
 </a>
 <a href="https://njangra.me/">
-  <img align="left" alt="NJ" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/njangra.png" />
+  <img align="left" alt="NJ" width="30px" src="https://njangra.me/images/njangra-logo.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=imnjangra.imnjangra)
