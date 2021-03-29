@@ -29,7 +29,7 @@ I'm **[Navjot Jangra!](https://njangra.me/)**, a passionate self-taught Web Deve
 - 🌱 I’m currently learning Python; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [hi@njangra.me](mailto:hi@njangra.me);
-- 📝[Resume](https://njangra.me/)
+- 📝[Resume](https://njangra.me/NavjotJangra_Resume.pdf)
 
 **Languages and Tools:**  
 
