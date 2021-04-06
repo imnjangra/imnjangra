@@ -14,7 +14,9 @@
 <a href="https://njangra.me/">
   <img align="left" alt="NJ" width="30px" src="https://njangra.me/images/njangra-logo.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=imnjangra.imnjangra)
 
+<br />
 
 #### I'm **[Navjot Jangra!](https://njangra.me/)**, a passionate self-taught Web Developer 🚀 from India.
 
