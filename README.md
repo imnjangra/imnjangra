@@ -28,7 +28,7 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning AI-ML; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [hi@njangra.me](mailto:hi@njangra.me);
+- 📫 How to reach me: [Mail me](mailto:navjotjangra2001@gmail.com);
 - 📝[Resume](https://njangra.me/NavjotJangra_Resume.pdf)
 
 **Languages and Tools:**  
