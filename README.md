@@ -5,7 +5,7 @@
 <a href="https://twitter.com/">
   <img align="left" alt="NJ-Twitter" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/navjot-jangra-634b5617b/">
   <img align="left" alt="NJ-LinkedIN" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/inkedin.png" />
 </a>
 <a href="https://www.facebook.com/imNavjotJangra/">
