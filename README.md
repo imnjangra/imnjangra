@@ -2,10 +2,10 @@
 <a href="https://www.instagram.com/injangra">
   <img align="left" alt="NJ-Insta" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/instagram.png" />
 </a>
-<a href="https://twitter.com/imnjangra">
+<a href="https://twitter.com/">
   <img align="left" alt="NJ-Twitter" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/imnjangra/">
+<a href="https://www.linkedin.com/in/">
   <img align="left" alt="NJ-LinkedIN" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/inkedin.png" />
 </a>
 <a href="https://www.facebook.com/imNavjotJangra/">
