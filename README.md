@@ -15,7 +15,6 @@
   <img align="left" alt="NJ" width="30px" src="https://njangra.me/images/njangra-logo.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=imnjangra.imnjangra)
 
 <br />
 
