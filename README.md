@@ -16,7 +16,7 @@
 </a>
 
 
-I'm **[Navjot Jangra!](https://njangra.me/)**, a passionate self-taught Web Developer 🚀 from India.
+#### I'm **[Navjot Jangra!](https://njangra.me/)**, a passionate self-taught Web Developer 🚀 from India.
 
   <img align="right" alt="PNG" src="BACKGROUND.png" width="350" height="380" />
   
