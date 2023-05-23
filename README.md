@@ -1,48 +1,69 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , nice to meet you.
-<a href="https://www.instagram.com/injangra">
-  <img align="left" alt="NJ-Insta" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/instagram.png" />
-</a>
-<a href="https://twitter.com/">
-  <img align="left" alt="NJ-Twitter" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/twitter.png" />
-</a>
-<a href="https://www.linkedin.com/in/navjot-jangra-634b5617b/">
-  <img align="left" alt="NJ-LinkedIN" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/inkedin.png" />
-</a>
-<a href="https://www.facebook.com/imNavjotJangra/">
-  <img align="left" alt="NJ-Facebook" width="30px" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/facebook.png" />
-</a>
-<a href="https://njangra.me/">
-  <img align="left" alt="NJ" width="30px" src="https://njangra.me/images/njangra-logo.svg" />
-</a>
+# Navjot Jangra
 
-![](https://visitor-badge.glitch.me/badge?page_id=imnjangra.imnjangra)
+- Email: imnavjotjangra@gmail.com
+- LinkedIn: [linkedin.com/in/njangra](https://linkedin.com/in/njangra)
+- Portfolio: [imnjangra.github.io/me](https://imnjangra.github.io/me/)
 
-<br />
+## Summary
 
-#### I'm **[Navjot Jangra!](https://njangra.me/)**, a passionate self-taught Web Developer 🚀 from India.
+I am Navjot Jangra, a motivated and passionate individual from Chandigarh, India. Currently pursuing a Bachelor of Science degree in Data Science and Applications at the Indian Institute of Technology, Madras. I have a strong background in web development and have been coding programs for the past three years. With a drive for excellence, I aim to make a meaningful impact in the industry.
 
-  <img align="right" alt="PNG" src="BACKGROUND.png" width="350" height="380" />
-  
-**Talking about Personal Stuffs:**
+## Experience
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning AI-ML; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Mail me](mailto:navjotjangra2001@gmail.com);
-- 📝[Resume](https://njangra.me/NavjotJangra_Resume.pdf)
+### Treasurer - CCET ACM Student Chapter
+- Sep 2021 - Aug 2022 (1 year)
+- Successfully managed and maintained the financial records of the chapter.
+- Facilitated the planning and organization of various events and activities.
+- Led fundraising efforts for the chapter.
+- Designed and edited layouts for the ACM CCET magazine "Digital Outlet."
+- Conducted hands-on sessions on data analysis concepts and machine learning algorithms in Python during a two-day workshop.
 
-**Languages and Tools:**  
+### Webmaster - CCET ACM WEBSITE
+- Dec 2021 - May 2022 (6 months)
+- Developed and maintained the official website of the CCET ACM Student Chapter.
+- Managed the website's content, design, and functionality.
+- Improved the user experience through regular updates and enhancements.
+- Awarded the Outstanding Chapter Website Award for the year 2022.
 
-<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/html-5.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/css3.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/nodejs.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/php.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/bootstrap.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/c-programming.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/c++.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/java.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/imnjangra/imnjangra/main/assets/python.png"></code>
+### Editor - FINGERPRINT (NEWSLETTER)
+- Jun 2020 - May 2022 (2 years)
+- Managed the editorial content of the Fingerprint newsletter.
+- Worked with a team to create and publish high-quality articles, stories, and updates.
+- Collaborated with designers to create visually appealing layouts.
 
+### Design Head - FINGERPRINT (NEWSLETTER)
+- Jun 2020 - May 2022 (2 years)
+- Co-led the design team in creating engaging and visually appealing layouts.
+- Ensured design complemented the content and maintained consistency across all materials.
 
+### Executive Member - CCET ACM Student Chapter
+- Apr 2021 - Sep 2021 (6 months)
+- Designed the winning entry for the chapter logo making competition.
 
+### Intern - Code Heroku
+- Mar 2021 - May 2021 (3 months)
+- Created graphics and performed video editing for various projects.
+
+## Education
+
+### Indian Institute of Technology, Madras
+- Bachelor of Science - BS, Data Science and Applications
+- May 2021 - Sep 2024
+
+## Licenses & Certifications
+
+- Introduction To Industry 4.0 And Industrial Internet Of Things - NPTEL Swayam
+- Introduction To Internet Of Things - NPTEL Swayam
+
+## Skills
+
+- Web Development
+- Web Design
+- Python (Programming Language)
+- Software Development
+- Graphic Design
+- Data Science
+- HTML5
+- Microsoft Excel
+- JavaScript
+- Cascading Style Sheets (CSS)
